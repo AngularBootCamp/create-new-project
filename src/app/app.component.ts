@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
       explore here. See the instructor's presentation to learn how to
       set up your own project.
     </p>
-  `
+  `,
+  standalone: true
 })
 export class AppComponent {}
